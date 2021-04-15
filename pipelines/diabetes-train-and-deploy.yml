@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'azmlarticial-ws' # Workspace Service Connection name
+  ml-ws-connection: 'articialconnection' # Workspace Service Connection name
   ml-ws: 'articial-ws' # AML Workspace name
   ml-rg: 'artificialmachine' # AML resource Group name
   ml-ct: 'articial-cluster' # AML Compute cluster name
